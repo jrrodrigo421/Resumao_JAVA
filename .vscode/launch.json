@@ -1,0 +1,84 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "For",
+      "request": "launch",
+      "mainClass": "edu.rodrigo.estrututasrepeticao.For",
+      "projectName": "anatomia_39d9ac59"
+    },
+    {
+      "type": "java",
+      "name": "ControleDeFluxo",
+      "request": "launch",
+      "mainClass": "edu.rodrigo.controlefluxo.ControleDeFluxo",
+      "projectName": "anatomia_39d9ac59"
+    },
+    {
+      "type": "java",
+      "name": "ExemploScanner",
+      "request": "launch",
+      "mainClass": "edu.rodrigo.scanner.ExemploScanner",
+      "projectName": "anatomia_39d9ac59"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Args",
+      "request": "launch",
+      "mainClass": "edu.rodrigo.argumentos.Args",
+      "projectName": "anatomia_39d9ac59"
+    },
+    {
+      "type": "java",
+      "name": "Boletim",
+      "request": "launch",
+      "mainClass": "edu.rodrigo.iniciojava.Boletim",
+      "projectName": "anatomia_39d9ac59"
+    },
+    {
+      "type": "java",
+      "name": "MinhaClasse",
+      "request": "launch",
+      "mainClass": "edu.rodrigo.iniciojava.MinhaClasse",
+      "projectName": "anatomia_39d9ac59"
+    },
+    {
+      "type": "java",
+      "name": "Metodos",
+      "request": "launch",
+      "mainClass": "edu.rodrigo.metodos.Metodos",
+      "projectName": "anatomia_39d9ac59"
+    },
+    {
+      "type": "java",
+      "name": "Usuario",
+      "request": "launch",
+      "mainClass": "edu.rodrigo.metodos.Usuario",
+      "projectName": "anatomia_39d9ac59"
+    },
+    {
+      "type": "java",
+      "name": "Operadores",
+      "request": "launch",
+      "mainClass": "edu.rodrigo.operadores.Operadores",
+      "projectName": "anatomia_39d9ac59"
+    },
+    {
+      "type": "java",
+      "name": "Tipos_E_Variaveis",
+      "request": "launch",
+      "mainClass": "edu.rodrigo.tiposevariaveis.Tipos_E_Variaveis",
+      "projectName": "anatomia_39d9ac59"
+    }
+  ]
+}
