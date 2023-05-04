@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Arrays2",
+      "request": "launch",
+      "mainClass": "edu.rodrigo.arrays.Arrays2",
+      "projectName": "anatomia_39d9ac59"
+    },
+    {
+      "type": "java",
+      "name": "Arrays1",
+      "request": "launch",
+      "mainClass": "edu.rodrigo.arrays.Arrays1",
+      "projectName": "anatomia_39d9ac59"
+    },
+    {
+      "type": "java",
+      "name": "Arrays",
+      "request": "launch",
+      "mainClass": "edu.rodrigo.arrays.Arrays",
+      "projectName": "anatomia_39d9ac59"
+    },
+    {
+      "type": "java",
       "name": "for1",
       "request": "launch",
       "mainClass": "edu.rodrigo.estrututasrepeticao.for1",
