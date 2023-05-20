@@ -1,6 +1,6 @@
 package edu.rodrigo.POO;
 //clase
-public class Carro {
+public class Carro extends Veiculo{
     //atributos
     String cor;
     String modelo;
