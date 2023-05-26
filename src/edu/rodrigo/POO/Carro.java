@@ -5,7 +5,7 @@ public class Carro extends Veiculo{
     String cor;
     String modelo;
     int capacidadeTanque;
-    Carro() {}
+    public Carro() {}
 
     Carro(String cornew, String modelooo, int capacidade){
         this.cor = cornew;

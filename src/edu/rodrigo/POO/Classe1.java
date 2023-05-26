@@ -4,6 +4,13 @@ public  class Classe1 {
 
     public static void main(String[] args) {
         Carro carro1 = new Carro();
+
+        //downcast
+        Veiculo honda = (Veiculo) new Conssessonaria();
+
+        //upcast
+        Conssessonaria daniloAutomoveis = new Veiculo();
+
         carro1.setCor("Vermelho");
         carro1.setModelo("Punto TOP");
         carro1.setCapacidadeTanque(120);

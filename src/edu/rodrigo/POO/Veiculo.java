@@ -1,4 +1,4 @@
 package edu.rodrigo.POO;
 
-public class Veiculo {
+public class Veiculo extends Conssessonaria{
 }
